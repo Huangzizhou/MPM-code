@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MPM_WaterElastic", "MPM_WaterElastic\MPM_WaterElastic.vcxproj", "{AF180563-2FF0-4DF8-9C4E-0BCCE9D6D857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF180563-2FF0-4DF8-9C4E-0BCCE9D6D857}.Debug|x64.ActiveCfg = Debug|x64
+		{AF180563-2FF0-4DF8-9C4E-0BCCE9D6D857}.Debug|x64.Build.0 = Debug|x64
+		{AF180563-2FF0-4DF8-9C4E-0BCCE9D6D857}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF180563-2FF0-4DF8-9C4E-0BCCE9D6D857}.Debug|x86.Build.0 = Debug|Win32
+		{AF180563-2FF0-4DF8-9C4E-0BCCE9D6D857}.Release|x64.ActiveCfg = Release|x64
+		{AF180563-2FF0-4DF8-9C4E-0BCCE9D6D857}.Release|x64.Build.0 = Release|x64
+		{AF180563-2FF0-4DF8-9C4E-0BCCE9D6D857}.Release|x86.ActiveCfg = Release|Win32
+		{AF180563-2FF0-4DF8-9C4E-0BCCE9D6D857}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ED74608-90B6-4B87-BF6F-B13243DEB38B}
+	EndGlobalSection
+EndGlobal
